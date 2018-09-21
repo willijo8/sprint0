@@ -11,6 +11,7 @@ Halston Sellentin,sellenth,sellenth
 Sachin Sakthivel, sakthisa, sakthisa
 Calvin Gagliano,gaglianc,calgag
 Mark Cooke,cookema, cookema
+Joshua Fisher,fisherj2,joshuasfisher
 Emily Domínguez,domingue,emilymd
 Parker Okonek, okonekp, okonekp
 Yuhang Chen(Tony),chenyuha,TJC1997,TJC1997
