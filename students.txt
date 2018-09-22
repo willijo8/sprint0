@@ -1,4 +1,4 @@
-Name,ONID,GitHub username
+﻿Name,ONID,GitHub username
 Caius Brindescu,brindesc,caiusb
 Manideepa Saginatham,saginatm,manideepa03
 Alexandria LeClerc,leclerca,alexecutable
@@ -22,13 +22,8 @@ Yuhang Chen(Tony),chenyuha,TJC1997,TJC1997
 Claire Cahill, cahillc, clairecahill
 Devin Swift,swiftde,haruvon
 Matthew Sessions, sessionm, sessionm21
-
-
-
-
-
-
-
-
-
+Thang Kim (LK), kimth, lkthang 
+Julie Kuang,kuangqi,jk0808
+Jason Yue, yuej, yuejOSU
+Eugene Munblit, munblite, yougren
 Alex Grejuc, grejuca, alexgrejuc
