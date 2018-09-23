@@ -4,6 +4,7 @@ Manideepa Saginatham,saginatm,manideepa03
 Alexandria LeClerc,leclerca,alexecutable
 Ke-Jo Hsieh,hsiehke,kyujyokei
 Carter Olsen,olsencar,olsencar
+Joshua Carle, carlej, carlej
 Andy Trinh, trinha, andytrinh
 Nikhil Anand, anandn, NikhilAnand1998
 Monica Holliday, monicaho, monicaholliday
@@ -16,15 +17,19 @@ Sachin Sakthivel, sakthisa, sakthisa
 Calvin Gagliano,gaglianc,calgag
 Mark Cooke,cookema, cookema
 Keaton Hartman,hartmank,hartmankeaton
+Kaitlin Hill, hillkai, hillkai
 Logan Saso,sasol,loganintech
+Jacob Sowanick, sowanicj, sowanicj
+Kai Gay,gayk,kai-ga
 Joshua Fisher,fisherj2,joshuasfisher
 Emily Domínguez,domingue,emilymd
 Parker Okonek, okonekp, okonekp
 Yuhang Chen(Tony),chenyuha,TJC1997,TJC1997
 Claire Cahill, cahillc, clairecahill
+Zachary Horine, horinez, horinezachary
 Devin Swift,swiftde,haruvon
 Matthew Sessions, sessionm, sessionm21
-Thang Kim (LK), kimth, lkthang 
+Thang Kim (LK), kimth, lkthang
 Julie Kuang,kuangqi,jk0808
 Jason Yue, yuej, yuejOSU
 Eugene Munblit, munblite, yougren
@@ -33,3 +38,4 @@ Aalok Borkar,borkaraa,aalokb
 Cameron Guillory, guilloca, guilloca
 Christopher Hoskins, hoskinsc, hoskinsc
 Cheng Xie, xiech, Vacancyy
+Huahua Wang, wanghuah, HuahuaWang2018
