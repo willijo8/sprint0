@@ -17,6 +17,7 @@ Calvin Gagliano,gaglianc,calgag
 Mark Cooke,cookema, cookema
 Logan Saso,sasol,loganintech
 Jacob Sowanick, sowanicj, sowanicj
+Kai Gay,gayk,kai-ga
 Joshua Fisher,fisherj2,joshuasfisher
 Emily Domínguez,domingue,emilymd
 Parker Okonek, okonekp, okonekp
