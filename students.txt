@@ -16,6 +16,7 @@ Sachin Sakthivel, sakthisa, sakthisa
 Calvin Gagliano,gaglianc,calgag
 Mark Cooke,cookema, cookema
 Logan Saso,sasol,loganintech
+Jacob Sowanick, sowanicj, sowanicj
 Joshua Fisher,fisherj2,joshuasfisher
 Emily Domínguez,domingue,emilymd
 Parker Okonek, okonekp, okonekp
