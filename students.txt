@@ -28,7 +28,7 @@ Claire Cahill, cahillc, clairecahill
 Zachary Horine, horinez, horinezachary
 Devin Swift,swiftde,haruvon
 Matthew Sessions, sessionm, sessionm21
-Thang Kim (LK), kimth, lkthang 
+Thang Kim (LK), kimth, lkthang
 Julie Kuang,kuangqi,jk0808
 Jason Yue, yuej, yuejOSU
 Eugene Munblit, munblite, yougren
@@ -37,3 +37,4 @@ Aalok Borkar,borkaraa,aalokb
 Cameron Guillory, guilloca, guilloca
 Christopher Hoskins, hoskinsc, hoskinsc
 Cheng Xie, xiech, Vacancyy
+Huahua Wang, wanghuah, HuahuaWang2018
