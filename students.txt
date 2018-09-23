@@ -4,6 +4,7 @@ Manideepa Saginatham,saginatm,manideepa03
 Alexandria LeClerc,leclerca,alexecutable
 Ke-Jo Hsieh,hsiehke,kyujyokei
 Carter Olsen,olsencar,olsencar
+Andy Trinh, trinha, andytrinh
 Nikhil Anand, anandn, NikhilAnand1998
 Monica Holliday, monicaho, monicaholliday
 Phillip Mestas, mestasp, xMestas
@@ -27,11 +28,5 @@ Julie Kuang,kuangqi,jk0808
 Jason Yue, yuej, yuejOSU
 Eugene Munblit, munblite, yougren
 Alex Grejuc, grejuca, alexgrejuc
-
-
-
-
-
-
-
 Christopher Hoskins, hoskinsc, hoskinsc
+Cheng Xie, xiech, Vacancyy
