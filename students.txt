@@ -4,6 +4,7 @@ Caius Brindescu,brindesc,caiusb
 Manideepa Saginatham,saginatm,manideepa03
 Alexandria LeClerc,leclerca,alexecutable
 Ke-Jo Hsieh,hsiehke,kyujyokei
+Griffin Thenell, thenellg, thenellg
 Carter Olsen,olsencar,olsencar
 Joshua Carle, carlej, carlej
 Andy Trinh, trinha, andytrinh
