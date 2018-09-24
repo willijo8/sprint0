@@ -29,6 +29,7 @@ Claire Cahill, cahillc, clairecahill
 Zachary Horine, horinez, horinezachary
 Devin Swift,swiftde,haruvon
 Matthew Sessions, sessionm, sessionm21
+Nathan Jewell, jewelln, Nathanjewell
 Thang Kim (LK), kimth, lkthang
 Julie Kuang,kuangqi,jk0808
 Jason Yue, yuej, yuejOSU
@@ -40,4 +41,3 @@ Christopher Hoskins, hoskinsc, hoskinsc
 Cheng Xie, xiech, Vacancyy
 Chasen Yamashita, yamashch, ChasenYamashita
 Huahua Wang, wanghuah, HuahuaWang2018
-Nathan Jewell, jewelln, Nathanjewell
