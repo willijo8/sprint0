@@ -24,6 +24,7 @@ Kai Gay,gayk,kai-ga
 Joshua Fisher,fisherj2,joshuasfisher
 Emily Domínguez,domingue,emilymd
 Parker Okonek, okonekp, okonekp
+Jakob Nelson, nelsjako, nelsjako
 Yuhang Chen(Tony),chenyuha,TJC1997,TJC1997
 Claire Cahill, cahillc, clairecahill
 Zachary Horine, horinez, horinezachary
@@ -40,4 +41,3 @@ Christopher Hoskins, hoskinsc, hoskinsc
 Cheng Xie, xiech, Vacancyy
 Chasen Yamashita, yamashch, ChasenYamashita
 Huahua Wang, wanghuah, HuahuaWang2018
-Jakob Nelson, nelsjako, nelsjako
