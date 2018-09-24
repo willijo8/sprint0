@@ -46,6 +46,7 @@ Michael Huang, huangmic, fireball1983
 Julie Kuang,kuangqi,jk0808
 Jason Yue, yuej, yuejOSU
 Eugene Munblit, munblite, yougren
+Manuel Ochoa-Botello, Ochoabom, MannyB6
 Alex Grejuc, grejuca, alexgrejuc
 Aalok Borkar,borkaraa,aalokb
 Cameron Guillory, guilloca, guilloca
