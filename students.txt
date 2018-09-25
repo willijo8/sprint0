@@ -9,6 +9,7 @@ Carter Olsen,olsencar,olsencar
 Joshua Carle, carlej, carlej
 Andy Trinh, trinha, andytrinh
 Jason Johnson, johnsja7, johnsja7
+Kyle Peterson, peterkyl, peterkyl
 Nikhil Anand, anandn, NikhilAnand1998
 Timothy O'Rourke,orourtim,orourtim
 Monica Holliday, monicaho, monicaholliday
@@ -30,11 +31,13 @@ Jacob Sowanick, sowanicj, sowanicj
 Kai Gay,gayk,kai-ga
 Joshua Fisher,fisherj2,joshuasfisher
 Amanda Crawford, crawfama, Amanda-Crawford
+Sean spink, spinks, PixelDotPixel 
 Emily Domínguez,domingue,emilymd
 Mitchell Schenk, schenkmi, mitchell-schenk
 Jared Beale, bealej, JaredBeale
 Parker Okonek, okonekp, okonekp
 Jakob Nelson, nelsjako, nelsjako
+Sergei Poliakov, poliakos, poliakos
 Yuhang Chen(Tony),chenyuha,TJC1997,TJC1997
 Claire Cahill, cahillc, clairecahill
 Nicholas Davies, davienic, nsdavies
@@ -59,3 +62,4 @@ Huahua Wang, wanghuah, HuahuaWang2018
 Alexandra Leamy, leamya, AlexLeam
 Shane Clancy, clancys, ShaneClancy
 Edgar Garibay Cervantes, garibaed, Garibaed
+Kaitlin Grabowski, grabowsk,  KatieGrbski
