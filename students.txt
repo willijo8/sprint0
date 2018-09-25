@@ -37,6 +37,7 @@ Mitchell Schenk, schenkmi, mitchell-schenk
 Jared Beale, bealej, JaredBeale
 Parker Okonek, okonekp, okonekp
 Jakob Nelson, nelsjako, nelsjako
+Sergei Poliakov, poliakos, poliakos
 Yuhang Chen(Tony),chenyuha,TJC1997,TJC1997
 Claire Cahill, cahillc, clairecahill
 Nicholas Davies, davienic, nsdavies
