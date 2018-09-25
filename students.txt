@@ -1,4 +1,5 @@
-Name,ONID,GitHub username
+﻿Name,ONID,GitHub username
+Isaac Peters, petersis, isaacpeters
 Inez Hernandez Fuerte, 932487655, InezHernandez
 Caius Brindescu,brindesc,caiusb
 Manideepa Saginatham,saginatm,manideepa03
@@ -9,6 +10,7 @@ Carter Olsen,olsencar,olsencar
 Joshua Carle, carlej, carlej
 Andy Trinh, trinha, andytrinh
 Jason Johnson, johnsja7, johnsja7
+Kyle Peterson, peterkyl, peterkyl
 Nikhil Anand, anandn, NikhilAnand1998
 Timothy O'Rourke,orourtim,orourtim
 Monica Holliday, monicaho, monicaholliday
@@ -30,16 +32,20 @@ Jacob Sowanick, sowanicj, sowanicj
 Kai Gay,gayk,kai-ga
 Joshua Fisher,fisherj2,joshuasfisher
 Amanda Crawford, crawfama, Amanda-Crawford
+Sean spink, spinks, PixelDotPixel 
 Emily Domínguez,domingue,emilymd
 Mitchell Schenk, schenkmi, mitchell-schenk
 Jared Beale, bealej, JaredBeale
 Parker Okonek, okonekp, okonekp
 Jakob Nelson, nelsjako, nelsjako
+Sergei Poliakov, poliakos, poliakos
 Yuhang Chen(Tony),chenyuha,TJC1997,TJC1997
+Johannes Freischuetz, freischj, freischj
 Claire Cahill, cahillc, clairecahill
 Nicholas Davies, davienic, nsdavies
 Zachary Horine, horinez, horinezachary
 Devin Swift,swiftde,haruvon
+Dakota Cleeves, cleevesd, cleevesd
 Aiden Nelson, nelsonai, aidenjn
 Matthew Sessions, sessionm, sessionm21
 Nathan Jewell, jewelln, Nathanjewell
@@ -56,6 +62,13 @@ Christopher Hoskins, hoskinsc, hoskinsc
 Cheng Xie, xiech, Vacancyy
 Chasen Yamashita, yamashch, ChasenYamashita
 Huahua Wang, wanghuah, HuahuaWang2018
+Feng Liang,liangfen,Csedge
 Alexandra Leamy, leamya, AlexLeam
 Shane Clancy, clancys, ShaneClancy
 Gregory Sanchez, sanchegr, gs291
+Adam Stewart, stewaada, AdamTogether
+Steven Phillips, Phillist, Phillist
+Jarritt Youngers, youngerj, youngerj
+Mert Dedekoy, dedekoym, mertdedekoy
+Edgar Garibay Cervantes, garibaed, Garibaed
+Kaitlin Grabowski, grabowsk,  KatieGrbski
