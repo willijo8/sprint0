@@ -1,4 +1,5 @@
 ﻿Name,ONID,GitHub username
+Isaac Peters, petersis, isaacpeters
 Caius Brindescu,brindesc,caiusb
 Manideepa Saginatham,saginatm,manideepa03
 Alexandria LeClerc,leclerca,alexecutable
