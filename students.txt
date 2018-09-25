@@ -36,6 +36,7 @@ Jared Beale, bealej, JaredBeale
 Parker Okonek, okonekp, okonekp
 Jakob Nelson, nelsjako, nelsjako
 Yuhang Chen(Tony),chenyuha,TJC1997,TJC1997
+Johannes Freischuetz, freischj, freischj
 Claire Cahill, cahillc, clairecahill
 Nicholas Davies, davienic, nsdavies
 Zachary Horine, horinez, horinezachary
@@ -58,4 +59,3 @@ Chasen Yamashita, yamashch, ChasenYamashita
 Huahua Wang, wanghuah, HuahuaWang2018
 Alexandra Leamy, leamya, AlexLeam
 Shane Clancy, clancys, ShaneClancy
-Johannes Freischuetz, freischj, freischj
