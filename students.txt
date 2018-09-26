@@ -1,0 +1,60 @@
+Name,ONID,GitHub username
+Inez Hernandez Fuerte, 932487655, InezHernandez
+Caius Brindescu,brindesc,caiusb
+Manideepa Saginatham,saginatm,manideepa03
+Alexandria LeClerc,leclerca,alexecutable
+Ke-Jo Hsieh,hsiehke,kyujyokei
+Griffin Thenell, thenellg, thenellg
+Carter Olsen,olsencar,olsencar
+Joshua Carle, carlej, carlej
+Andy Trinh, trinha, andytrinh
+Jason Johnson, johnsja7, johnsja7
+Nikhil Anand, anandn, NikhilAnand1998
+Timothy O'Rourke,orourtim,orourtim
+Monica Holliday, monicaho, monicaholliday
+Phillip Mestas, mestasp, xMestas
+Reese Benson, Bensonre, Bensonre
+Timothy Bui,buitim,buitim
+Austin Wilmoth, wilmotha, wilmotha
+Benjamin Friedman,friedmab,montymxb
+Halston Sellentin,sellenth,sellenth
+Hannah Vaughan,vaughanh,HannahTierneyV
+Sachin Sakthivel, sakthisa, sakthisa
+Calvin Gagliano,gaglianc,calgag
+Mark Cooke,cookema, cookema
+pu huang, huangpu, huangpujj
+Keaton Hartman,hartmank,hartmankeaton
+Kaitlin Hill, hillkai, hillkai
+Logan Saso,sasol,loganintech
+Jacob Sowanick, sowanicj, sowanicj
+Kai Gay,gayk,kai-ga
+Joshua Fisher,fisherj2,joshuasfisher
+Amanda Crawford, crawfama, Amanda-Crawford
+Emily Domínguez,domingue,emilymd
+Mitchell Schenk, schenkmi, mitchell-schenk
+Jared Beale, bealej, JaredBeale
+Parker Okonek, okonekp, okonekp
+Jakob Nelson, nelsjako, nelsjako
+Yuhang Chen(Tony),chenyuha,TJC1997,TJC1997
+Claire Cahill, cahillc, clairecahill
+Nicholas Davies, davienic, nsdavies
+Zachary Horine, horinez, horinezachary
+Devin Swift,swiftde,haruvon
+Aiden Nelson, nelsonai, aidenjn
+Matthew Sessions, sessionm, sessionm21
+Nathan Jewell, jewelln, Nathanjewell
+Thang Kim (LK), kimth, lkthang
+Michael Huang, huangmic, fireball1983
+Julie Kuang,kuangqi,jk0808
+Jason Yue, yuej, yuejOSU
+Eugene Munblit, munblite, yougren
+Manuel Ochoa-Botello, Ochoabom, MannyB6
+Alex Grejuc, grejuca, alexgrejuc
+Aalok Borkar,borkaraa,aalokb
+Cameron Guillory, guilloca, guilloca
+Christopher Hoskins, hoskinsc, hoskinsc
+Cheng Xie, xiech, Vacancyy
+Chasen Yamashita, yamashch, ChasenYamashita
+Huahua Wang, wanghuah, HuahuaWang2018
+Alexandra Leamy, leamya, AlexLeam
+Shane Clancy, clancys, ShaneClancy
