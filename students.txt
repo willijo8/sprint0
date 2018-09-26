@@ -54,6 +54,7 @@ Nicholas Davies, davienic, nsdavies
 Zachary Horine, horinez, horinezachary
 Devin Swift,swiftde,haruvon
 Ulises Zaragoza, zaragozu, uliseszara
+Jordan Ng, ngjor, JordanNg
 Dakota Cleeves, cleevesd, cleevesd
 Aiden Nelson, nelsonai, aidenjn
 Matthew Sessions, sessionm, sessionm21
