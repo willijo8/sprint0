@@ -1,5 +1,4 @@
 ﻿Name,ONID,GitHub username
-Baltazar Ortiz Montejano, ortizmob, baltazarO
 Samantha Zeigler, zeiglers, zeiglers
 Luke Penner, pennerlu, lppenne
 Isaac Peters, petersis, isaacpeters
