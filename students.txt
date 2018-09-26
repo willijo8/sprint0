@@ -1,4 +1,4 @@
-﻿Name,ONID,GitHub username
+Name,ONID,GitHub username
 Samantha Zeigler, zeiglers, zeiglers
 Luke Penner, pennerlu, lppenne
 Isaac Peters, petersis, isaacpeters
@@ -12,6 +12,7 @@ Carter Olsen,olsencar,olsencar
 Joshua Carle, carlej, carlej
 Andy Trinh, trinha, andytrinh
 Jason Johnson, johnsja7, johnsja7
+Justin Mai, maij, justinTM
 Kyle Peterson, peterkyl, peterkyl
 Nikhil Anand, anandn, NikhilAnand1998
 Timothy O'Rourke,orourtim,orourtim
