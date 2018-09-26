@@ -93,4 +93,5 @@ John (Jack) Davis, davisjo5, osu-jackdavis
 Alexander Jacobson, jacoalex, jacoalex
 Maxwell Evdemon, Evdemonm, Evdemonm
 Harry Miller, millharr, hcmlax
+Carson Pemble, pemblec, PembleC
 
