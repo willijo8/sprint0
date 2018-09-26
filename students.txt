@@ -1,34 +1,94 @@
 Name,ONID,GitHub username
+Samantha Zeigler, zeiglers, zeiglers
+Luke Penner, pennerlu, lppenne
+Isaac Peters, petersis, isaacpeters
+Inez Hernandez Fuerte, 932487655, InezHernandez
 Caius Brindescu,brindesc,caiusb
 Manideepa Saginatham,saginatm,manideepa03
 Alexandria LeClerc,leclerca,alexecutable
 Ke-Jo Hsieh,hsiehke,kyujyokei
+Griffin Thenell, thenellg, thenellg
 Carter Olsen,olsencar,olsencar
+Joshua Carle, carlej, carlej
+Andy Trinh, trinha, andytrinh
+Jason Johnson, johnsja7, johnsja7
+Kyle Peterson, peterkyl, peterkyl
+Alexander Smith, smithal5, smithal5
 Nikhil Anand, anandn, NikhilAnand1998
+Timothy O'Rourke,orourtim,orourtim
 Monica Holliday, monicaho, monicaholliday
 Phillip Mestas, mestasp, xMestas
 Reese Benson, Bensonre, Bensonre
+Jose Ramos, ramosjos, ramosjos
+Arnav Bhutani, bhutania, bhutania
 Timothy Bui,buitim,buitim
+Austin Wilmoth, wilmotha, wilmotha
+Benjamin Friedman,friedmab,montymxb
+Evan Amaya,amayae,amayaevan
 Halston Sellentin,sellenth,sellenth
 Hannah Vaughan,vaughanh,HannahTierneyV
 Sachin Sakthivel, sakthisa, sakthisa
 Calvin Gagliano,gaglianc,calgag
 Mark Cooke,cookema, cookema
+pu huang, huangpu, huangpujj
+Keaton Hartman,hartmank,hartmankeaton
+Kaitlin Hill, hillkai, hillkai
 Logan Saso,sasol,loganintech
+Jacob Sowanick, sowanicj, sowanicj
+Kai Gay,gayk,kai-ga
 Joshua Fisher,fisherj2,joshuasfisher
+Amanda Crawford, crawfama, Amanda-Crawford
+Sean spink, spinks, PixelDotPixel 
 Emily Domínguez,domingue,emilymd
+Mitchell Schenk, schenkmi, mitchell-schenk
+Jared Beale, bealej, JaredBeale
 Parker Okonek, okonekp, okonekp
+Jakob Nelson, nelsjako, nelsjako
+Ryan Alder, alderr, ryanalder
+Sergei Poliakov, poliakos, poliakos
 Yuhang Chen(Tony),chenyuha,TJC1997,TJC1997
+Johannes Freischuetz, freischj, freischj
 Claire Cahill, cahillc, clairecahill
+Nicholas Davies, davienic, nsdavies
+Zachary Horine, horinez, horinezachary
 Devin Swift,swiftde,haruvon
 Ulises Zaragoza, zaragozu, uliseszara
-
-
-
-
-
-
-
-
-
+Dakota Cleeves, cleevesd, cleevesd
+Aiden Nelson, nelsonai, aidenjn
+Matthew Sessions, sessionm, sessionm21
+Nathan Jewell, jewelln, Nathanjewell
+Thang Kim (LK), kimth, lkthang
+Michael Huang, huangmic, fireball1983
+Julie Kuang,kuangqi,jk0808
+Jason Yue, yuej, yuejOSU
+Eugene Munblit, munblite, yougren
+Manuel Ochoa-Botello, Ochoabom, MannyB6
 Alex Grejuc, grejuca, alexgrejuc
+Aalok Borkar,borkaraa,aalokb
+Cameron Guillory, guilloca, guilloca
+Christopher Hoskins, hoskinsc, hoskinsc
+Cheng Xie, xiech, Vacancyy
+Chasen Yamashita, yamashch, ChasenYamashita
+Huahua Wang, wanghuah, HuahuaWang2018
+Feng Liang,liangfen,Csedge
+Alexandra Leamy, leamya, AlexLeam
+Shane Clancy, clancys, ShaneClancy
+Peng Zhang,zhangpen,933039258
+Ben Warschauer, warschab, bwarschauer
+Gregory Sanchez, sanchegr, gs291
+Adam Stewart, stewaada, AdamTogether
+Steven Phillips, Phillist, Phillist
+Jarritt Youngers, youngerj, youngerj
+Mert Dedekoy, dedekoym, mertdedekoy
+Edgar Garibay Cervantes, garibaed, Garibaed
+Kaitlin Grabowski, grabowsk,  KatieGrbski
+Yuanjun Zhang, zhangyu6, FishPapa
+Daniel Safarov, safarovd, safarovd
+Evan Newman, newmanev, evanrnewman
+Alison Jones, jonesal2, AmbiguousCat
+Justin Mai, maij, justinTM
+Zach Thompson, thompzac, radiian
+John (Jack) Davis, davisjo5, osu-jackdavis
+Alexander Jacobson, jacoalex, jacoalex
+Maxwell Evdemon, Evdemonm, Evdemonm
+Harry Miller, millharr, hcmlax
