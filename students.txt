@@ -29,8 +29,8 @@ Logan Saso,sasol,loganintech
 Jacob Sowanick, sowanicj, sowanicj
 Kai Gay,gayk,kai-ga
 Joshua Fisher,fisherj2,joshuasfisher
-Amanda Crawford, crawfama, Amanda-Crawford 
-Sean spink, spinks, PixelDotPixel
+Amanda Crawford, crawfama, Amanda-Crawford
+Sean spink, spinks, PixelDotPixel 
 Emily Domínguez,domingue,emilymd
 Mitchell Schenk, schenkmi, mitchell-schenk
 Jared Beale, bealej, JaredBeale
