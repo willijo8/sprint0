@@ -1,4 +1,4 @@
-Name,ONID,GitHub username
+﻿Name,ONID,GitHub username
 Samantha Zeigler, zeiglers, zeiglers
 Luke Penner, pennerlu, lppenne
 Isaac Peters, petersis, isaacpeters
@@ -11,11 +11,9 @@ Griffin Thenell, thenellg, thenellg
 Carter Olsen,olsencar,olsencar
 Joshua Carle, carlej, carlej
 Andy Trinh, trinha, andytrinh
-Michael Zavalza, zavalzam, zavalzam
 Jason Johnson, johnsja7, johnsja7
 Kyle Peterson, peterkyl, peterkyl
 Nikhil Anand, anandn, NikhilAnand1998
-Jeremy Thoennes, thoennej, gerasheo
 Timothy O'Rourke,orourtim,orourtim
 Monica Holliday, monicaho, monicaholliday
 Phillip Mestas, mestasp, xMestas
@@ -80,4 +78,4 @@ Mert Dedekoy, dedekoym, mertdedekoy
 Edgar Garibay Cervantes, garibaed, Garibaed
 Kaitlin Grabowski, grabowsk,  KatieGrbski
 Yuanjun Zhang, zhangyu6, FishPapa
-Justin Parks,parksju,jtparks
+John (Jack) Davis, davisjo5, osu-jackdavis
