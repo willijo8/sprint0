@@ -36,7 +36,7 @@ Jacob Sowanick, sowanicj, sowanicj
 Kai Gay,gayk,kai-ga
 Joshua Fisher,fisherj2,joshuasfisher
 Amanda Crawford, crawfama, Amanda-Crawford
-Sean spink, spinks, PixelDotPixel 
+Sean spink, spinks, PixelDotPixel
 Emily Domínguez,domingue,emilymd
 Mitchell Schenk, schenkmi, mitchell-schenk
 Jared Beale, bealej, JaredBeale
@@ -87,3 +87,5 @@ Zach Thompson, thompzac, radiian
 John (Jack) Davis, davisjo5, osu-jackdavis
 Alexander Jacobson, jacoalex, jacoalex
 Maxwell Evdemon, Evdemonm, Evdemonm
+Harry Miller, millharr, hcmlax
+
