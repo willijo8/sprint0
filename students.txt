@@ -1,4 +1,4 @@
-﻿Name,ONID,GitHub username
+Name,ONID,GitHub username
 Samantha Zeigler, zeiglers, zeiglers
 Luke Penner, pennerlu, lppenne
 Isaac Peters, petersis, isaacpeters
@@ -18,10 +18,11 @@ Timothy O'Rourke,orourtim,orourtim
 Monica Holliday, monicaho, monicaholliday
 Phillip Mestas, mestasp, xMestas
 Reese Benson, Bensonre, Bensonre
+Jose Ramos, ramosjos, ramosjos
+Arnav Bhutani, bhutania, bhutania
 Timothy Bui,buitim,buitim
 Austin Wilmoth, wilmotha, wilmotha
 Benjamin Friedman,friedmab,montymxb
-Jose Ramos, ramosjos, ramosjos
 Evan Amaya,amayae,amayaevan
 Halston Sellentin,sellenth,sellenth
 Hannah Vaughan,vaughanh,HannahTierneyV
@@ -42,6 +43,7 @@ Mitchell Schenk, schenkmi, mitchell-schenk
 Jared Beale, bealej, JaredBeale
 Parker Okonek, okonekp, okonekp
 Jakob Nelson, nelsjako, nelsjako
+Ryan Alder, alderr, ryanalder
 Sergei Poliakov, poliakos, poliakos
 Yuhang Chen(Tony),chenyuha,TJC1997,TJC1997
 Johannes Freischuetz, freischj, freischj
@@ -79,3 +81,11 @@ Mert Dedekoy, dedekoym, mertdedekoy
 Edgar Garibay Cervantes, garibaed, Garibaed
 Kaitlin Grabowski, grabowsk,  KatieGrbski
 Yuanjun Zhang, zhangyu6, FishPapa
+Evan Newman, newmanev, evanrnewman
+Alison Jones, jonesal2, AmbiguousCat
+Justin Mai, maij, justinTM
+Zach Thompson, thompzac, radiian
+John (Jack) Davis, davisjo5, osu-jackdavis
+Alexander Jacobson, jacoalex, jacoalex
+Maxwell Evdemon, Evdemonm, Evdemonm
+Harry Miller, millharr, hcmlax
