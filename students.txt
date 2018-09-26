@@ -1,4 +1,4 @@
-﻿Name,ONID,GitHub username
+Name,ONID,GitHub username
 Samantha Zeigler, zeiglers, zeiglers
 Luke Penner, pennerlu, lppenne
 Isaac Peters, petersis, isaacpeters
