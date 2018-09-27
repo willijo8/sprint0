@@ -1,4 +1,5 @@
 Name,ONID,GitHub username
+Xizhi Yang, yangxiz, yangxizhi
 Danila Fedorin, fedorind, DanilaFe
 Samantha Zeigler, zeiglers, zeiglers
 Luke Penner, pennerlu, lppenne
@@ -110,3 +111,4 @@ Jiawei Mo, moji, dt990pro
 Stephanie Babb, babbst, BabbSt
 Aren Kyle, kylear, Kylear
 Aaron Goschie, goschiea, agoschie
+Michael Gabriel, gabriemi, Gabriel-Michael
