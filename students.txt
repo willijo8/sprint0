@@ -1,4 +1,5 @@
 Name,ONID,GitHub username
+Danila Fedorin, fedorind, DanilaFe
 Samantha Zeigler, zeiglers, zeiglers
 Luke Penner, pennerlu, lppenne
 Isaac Peters, petersis, isaacpeters
