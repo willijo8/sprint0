@@ -1,4 +1,4 @@
-Name,ONID,GitHub username
+﻿Name,ONID,GitHub username
 Samantha Zeigler, zeiglers, zeiglers
 Luke Penner, pennerlu, lppenne
 Isaac Peters, petersis, isaacpeters
@@ -7,7 +7,7 @@ Caius Brindescu,brindesc,caiusb
 Manideepa Saginatham,saginatm,manideepa03
 Alexandria LeClerc,leclerca,alexecutable
 Ke-Jo Hsieh,hsiehke,kyujyokei
-Griffin Thenell, thenellg, thenellg
+Griffin Thenell, thenellg, thenellgHaley Lebold, leboldh, leboldh
 Carter Olsen,olsencar,olsencar
 Joshua Carle, carlej, carlej
 Andy Trinh, trinha, andytrinh
