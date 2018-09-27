@@ -75,6 +75,7 @@ Cameron Guillory, guilloca, guilloca
 Christopher Hoskins, hoskinsc, hoskinsc
 Cheng Xie, xiech, Vacancyy
 Chasen Yamashita, yamashch, ChasenYamashita
+Joseph Landreville, landrevj, landrevj
 Huahua Wang, wanghuah, HuahuaWang2018
 Kristoffer Stuvstad, stuvstak, kkstuvstad
 Feng Liang,liangfen,Csedge
