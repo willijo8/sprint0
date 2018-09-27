@@ -1,6 +1,5 @@
 Name,ONID,GitHub username
 Danila Fedorin, fedorind, DanilaFe
-﻿Name,ONID,GitHub username
 Samantha Zeigler, zeiglers, zeiglers
 Luke Penner, pennerlu, lppenne
 Isaac Peters, petersis, isaacpeters
@@ -80,6 +79,7 @@ Huahua Wang, wanghuah, HuahuaWang2018
 Feng Liang,liangfen,Csedge
 Alexandra Leamy, leamya, AlexLeam
 Shane Clancy, clancys, ShaneClancy
+Isak Foshay, foshayi, foshay
 Peng Zhang,zhangpen,933039258
 Ben Warschauer, warschab, bwarschauer
 Gregory Sanchez, sanchegr, gs291
