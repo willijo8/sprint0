@@ -1,4 +1,4 @@
-Name,ONID,GitHub username
+﻿Name,ONID,GitHub username
 Samantha Zeigler, zeiglers, zeiglers
 Luke Penner, pennerlu, lppenne
 Isaac Peters, petersis, isaacpeters
@@ -84,6 +84,7 @@ Steven Phillips, Phillist, Phillist
 Jarritt Youngers, youngerj, youngerj
 Mert Dedekoy, dedekoym, mertdedekoy
 Edgar Garibay Cervantes, garibaed, Garibaed
+Gauge Hartwell, hartwelg, Hartwelg
 Kaitlin Grabowski, grabowsk,  KatieGrbski
 Yuanjun Zhang, zhangyu6, FishPapa
 Daniel Safarov, safarovd, safarovd
