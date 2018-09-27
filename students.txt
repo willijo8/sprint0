@@ -1,4 +1,4 @@
-Name,ONID,GitHub username
+﻿Name,ONID,GitHub username
 Samantha Zeigler, zeiglers, zeiglers
 Luke Penner, pennerlu, lppenne
 Isaac Peters, petersis, isaacpeters
@@ -98,5 +98,6 @@ Maxwell Evdemon, Evdemonm, Evdemonm
 Harry Miller, millharr, hcmlax
 Carson Pemble, pemblec, PembleC
 Baltazar Ortiz Montejano, ortizmob, baltazarO
+Jiawei Mo, moji, dt990pro
 Stephanie Babb, babbst, BabbSt
 Aren Kyle, kylear, Kylear
