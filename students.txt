@@ -46,8 +46,8 @@ Jacob Sowanick, sowanicj, sowanicj
 Kai Gay,gayk,kai-ga
 Joshua Fisher,fisherj2,joshuasfisher
 Amanda Crawford, crawfama, Amanda-Crawford
-Megan Liles,  lilesme, lilesme 
-Sean spink, spinks, PixelDotPixel 
+Megan Liles,  lilesme, lilesme
+Sean spink, spinks, PixelDotPixel
 Emily Domínguez,domingue,emilymd
 Mitchell Schenk, schenkmi, mitchell-schenk
 Jared Beale, bealej, JaredBeale
@@ -116,3 +116,4 @@ Stephanie Babb, babbst, BabbSt
 Aren Kyle, kylear, Kylear
 Aaron Goschie, goschiea, agoschie
 Michael Gabriel, gabriemi, Gabriel-Michael
+Ethan Shields, shieldse, SuperCheese21
