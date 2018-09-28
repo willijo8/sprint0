@@ -1,24 +1,31 @@
 ﻿Name,ONID,GitHub username
+Xizhi Yang, yangxiz, yangxizhi
+Danila Fedorin, fedorind, DanilaFe
 Samantha Zeigler, zeiglers, zeiglers
 Luke Penner, pennerlu, lppenne
 Isaac Peters, petersis, isaacpeters
 Inez Hernandez Fuerte, 932487655, InezHernandez
 Caius Brindescu,brindesc,caiusb
+Simon Louie,louiesi,Simouie
 Manideepa Saginatham,saginatm,manideepa03
 Alexandria LeClerc,leclerca,alexecutable
 Ke-Jo Hsieh,hsiehke,kyujyokei
 Griffin Thenell, thenellg, thenellg
 Haley Lebold, leboldh, leboldh
+Mingming Su, sum, mingmingsu
 Carter Olsen,olsencar,olsencar
 Joshua Carle, carlej, carlej
 Andy Trinh, trinha, andytrinh
 Jason Johnson, johnsja7, johnsja7
+Jacob Berwick,berwicja,jberwick12
 Kyle Peterson, peterkyl, peterkyl
 Alexander Smith, smithal5, smithal5
 Nikhil Anand, anandn, NikhilAnand1998
 Timothy O'Rourke,orourtim,orourtim
 Monica Holliday, monicaho, monicaholliday
+Arin Reinsch, reinscha, reinscha
 Phillip Mestas, mestasp, xMestas
+Trevor Webster, webstert, isvpursuit
 Reese Benson, Bensonre, Bensonre
 Jose Ramos, ramosjos, ramosjos
 Arnav Bhutani, bhutania, bhutania
@@ -40,7 +47,8 @@ Jacob Sowanick, sowanicj, sowanicj
 Kai Gay,gayk,kai-ga
 Joshua Fisher,fisherj2,joshuasfisher
 Amanda Crawford, crawfama, Amanda-Crawford
-Sean spink, spinks, PixelDotPixel 
+Megan Liles,  lilesme, lilesme
+Sean spink, spinks, PixelDotPixel
 Emily Domínguez,domingue,emilymd
 Mitchell Schenk, schenkmi, mitchell-schenk
 Jared Beale, bealej, JaredBeale
@@ -65,6 +73,7 @@ Michael Huang, huangmic, fireball1983
 Tso Yi Chung, chungts, joechung1995
 Julie Kuang,kuangqi,jk0808
 Jason Yue, yuej, yuejOSU
+Grayland Lunn, lunng, lunng
 Eugene Munblit, munblite, yougren
 Manuel Ochoa-Botello, Ochoabom, MannyB6
 Alex Grejuc, grejuca, alexgrejuc
@@ -73,10 +82,13 @@ Cameron Guillory, guilloca, guilloca
 Christopher Hoskins, hoskinsc, hoskinsc
 Cheng Xie, xiech, Vacancyy
 Chasen Yamashita, yamashch, ChasenYamashita
+Joseph Landreville, landrevj, landrevj
 Huahua Wang, wanghuah, HuahuaWang2018
+Kristoffer Stuvstad, stuvstak, kkstuvstad
 Feng Liang,liangfen,Csedge
 Alexandra Leamy, leamya, AlexLeam
 Shane Clancy, clancys, ShaneClancy
+Isak Foshay, foshayi, foshay
 Peng Zhang,zhangpen,933039258
 Ben Warschauer, warschab, bwarschauer
 Gregory Sanchez, sanchegr, gs291
@@ -85,6 +97,7 @@ Steven Phillips, Phillist, Phillist
 Jarritt Youngers, youngerj, youngerj
 Mert Dedekoy, dedekoym, mertdedekoy
 Edgar Garibay Cervantes, garibaed, Garibaed
+Gauge Hartwell, hartwelg, Hartwelg
 Kaitlin Grabowski, grabowsk,  KatieGrbski
 Yuanjun Zhang, zhangyu6, FishPapa
 Daniel Safarov, safarovd, safarovd
@@ -98,4 +111,13 @@ Maxwell Evdemon, Evdemonm, Evdemonm
 Harry Miller, millharr, hcmlax
 Carson Pemble, pemblec, PembleC
 Baltazar Ortiz Montejano, ortizmob, baltazarO
-
+Dakota Baird, bairdd, Bienfu
+Jeremiah Kramer, kramerje, kramerje
+Jiawei Mo, moji, dt990pro
+Stephanie Babb, babbst, BabbSt
+Aren Kyle, kylear, Kylear
+Aaron Goschie, goschiea, agoschie
+Michael Gabriel, gabriemi, Gabriel-Michael
+Sean Cameron, camerons, seeancameron
+Jinning, Zhang, zhangji5, zhangji52
+Ethan Shields, shieldse, SuperCheese21
