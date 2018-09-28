@@ -1,7 +1,8 @@
-Name,ONID,GitHub username
+﻿Name,ONID,GitHub username
 Xizhi Yang, yangxiz, yangxizhi
 Danila Fedorin, fedorind, DanilaFe
 Samantha Zeigler, zeiglers, zeiglers
+Lim Cheng Qing,limche, Flazzing
 Luke Penner, pennerlu, lppenne
 Isaac Peters, petersis, isaacpeters
 Inez Hernandez Fuerte, 932487655, InezHernandez
@@ -11,16 +12,19 @@ Manideepa Saginatham,saginatm,manideepa03
 Alexandria LeClerc,leclerca,alexecutable
 Ke-Jo Hsieh,hsiehke,kyujyokei
 Griffin Thenell, thenellg, thenellg
+Haley Lebold, leboldh, leboldh
 Mingming Su, sum, mingmingsu
 Carter Olsen,olsencar,olsencar
 Joshua Carle, carlej, carlej
 Andy Trinh, trinha, andytrinh
 Jason Johnson, johnsja7, johnsja7
+Jacob Berwick,berwicja,jberwick12
 Kyle Peterson, peterkyl, peterkyl
 Alexander Smith, smithal5, smithal5
 Nikhil Anand, anandn, NikhilAnand1998
 Timothy O'Rourke,orourtim,orourtim
 Monica Holliday, monicaho, monicaholliday
+Jackson Golletz, golletzj, JacksGo
 Arin Reinsch, reinscha, reinscha
 Phillip Mestas, mestasp, xMestas
 Trevor Webster, webstert, isvpursuit
@@ -45,8 +49,8 @@ Jacob Sowanick, sowanicj, sowanicj
 Kai Gay,gayk,kai-ga
 Joshua Fisher,fisherj2,joshuasfisher
 Amanda Crawford, crawfama, Amanda-Crawford
-Megan Liles,  lilesme, lilesme 
-Sean spink, spinks, PixelDotPixel 
+Megan Liles,  lilesme, lilesme
+Sean spink, spinks, PixelDotPixel
 Emily Domínguez,domingue,emilymd
 Mitchell Schenk, schenkmi, mitchell-schenk
 Jared Beale, bealej, JaredBeale
@@ -71,6 +75,7 @@ Michael Huang, huangmic, fireball1983
 Tso Yi Chung, chungts, joechung1995
 Julie Kuang,kuangqi,jk0808
 Jason Yue, yuej, yuejOSU
+Grayland Lunn, lunng, lunng
 Eugene Munblit, munblite, yougren
 Manuel Ochoa-Botello, Ochoabom, MannyB6
 Alex Grejuc, grejuca, alexgrejuc
@@ -85,6 +90,7 @@ Kristoffer Stuvstad, stuvstak, kkstuvstad
 Feng Liang,liangfen,Csedge
 Alexandra Leamy, leamya, AlexLeam
 Shane Clancy, clancys, ShaneClancy
+Donald (Max) Harkins, harkindo, harkindo
 Isak Foshay, foshayi, foshay
 Peng Zhang,zhangpen,933039258
 Ben Warschauer, warschab, bwarschauer
@@ -116,3 +122,8 @@ Aren Kyle, kylear, Kylear
 Aaron Goschie, goschiea, agoschie
 Michael Gabriel, gabriemi, Gabriel-Michael
 Thomas Croll, crollt, Crollt
+Roy Simons, Simonsr, roy017
+Haozhe Li,lihaoz,BarryLe
+Sean Cameron, camerons, seeancameron
+Jinning, Zhang, zhangji5, zhangji52
+Ethan Shields, shieldse, SuperCheese21
