@@ -74,6 +74,7 @@ Julie Kuang,kuangqi,jk0808
 Jason Yue, yuej, yuejOSU
 Eugene Munblit, munblite, yougren
 Manuel Ochoa-Botello, Ochoabom, MannyB6
+Chris Patenaude, patenauc, zermish
 Alex Grejuc, grejuca, alexgrejuc
 Aalok Borkar,borkaraa,aalokb
 Cameron Guillory, guilloca, guilloca
@@ -117,4 +118,3 @@ Aren Kyle, kylear, Kylear
 Aaron Goschie, goschiea, agoschie
 Michael Gabriel, gabriemi, Gabriel-Michael
 Ethan Shields, shieldse, SuperCheese21
-Chris Patenaude, patenauc, zermish
