@@ -80,6 +80,7 @@ Jason Yue, yuej, yuejOSU
 Grayland Lunn, lunng, lunng
 Eugene Munblit, munblite, yougren
 Manuel Ochoa-Botello, Ochoabom, MannyB6
+Chris Patenaude, patenauc, zermish
 Alex Grejuc, grejuca, alexgrejuc
 Aalok Borkar,borkaraa,aalokb
 Cameron Guillory, guilloca, guilloca
