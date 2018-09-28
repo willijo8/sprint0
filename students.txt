@@ -1,33 +1,23 @@
-Name,ONID,GitHub username
-Xizhi Yang, yangxiz, yangxizhi
-Danila Fedorin, fedorind, DanilaFe
+﻿Name,ONID,GitHub username
 Samantha Zeigler, zeiglers, zeiglers
 Luke Penner, pennerlu, lppenne
 Isaac Peters, petersis, isaacpeters
 Inez Hernandez Fuerte, 932487655, InezHernandez
 Caius Brindescu,brindesc,caiusb
-Simon Louie,louiesi,Simouie
 Manideepa Saginatham,saginatm,manideepa03
 Alexandria LeClerc,leclerca,alexecutable
 Ke-Jo Hsieh,hsiehke,kyujyokei
 Griffin Thenell, thenellg, thenellg
-Mingming Su, sum, mingmingsu
 Carter Olsen,olsencar,olsencar
 Joshua Carle, carlej, carlej
 Andy Trinh, trinha, andytrinh
 Jason Johnson, johnsja7, johnsja7
-Jacob Berwick,berwicja,jberwick12
 Kyle Peterson, peterkyl, peterkyl
-Alexander Smith, smithal5, smithal5
 Nikhil Anand, anandn, NikhilAnand1998
 Timothy O'Rourke,orourtim,orourtim
 Monica Holliday, monicaho, monicaholliday
-Arin Reinsch, reinscha, reinscha
 Phillip Mestas, mestasp, xMestas
-Trevor Webster, webstert, isvpursuit
 Reese Benson, Bensonre, Bensonre
-Jose Ramos, ramosjos, ramosjos
-Arnav Bhutani, bhutania, bhutania
 Timothy Bui,buitim,buitim
 Austin Wilmoth, wilmotha, wilmotha
 Benjamin Friedman,friedmab,montymxb
@@ -36,7 +26,6 @@ Halston Sellentin,sellenth,sellenth
 Hannah Vaughan,vaughanh,HannahTierneyV
 Sachin Sakthivel, sakthisa, sakthisa
 Calvin Gagliano,gaglianc,calgag
-Ian Brown, browni, ianbrown9475
 Mark Cooke,cookema, cookema
 pu huang, huangpu, huangpujj
 Keaton Hartman,hartmank,hartmankeaton
@@ -46,14 +35,12 @@ Jacob Sowanick, sowanicj, sowanicj
 Kai Gay,gayk,kai-ga
 Joshua Fisher,fisherj2,joshuasfisher
 Amanda Crawford, crawfama, Amanda-Crawford
-Megan Liles,  lilesme, lilesme
-Sean spink, spinks, PixelDotPixel
+Sean spink, spinks, PixelDotPixel 
 Emily Domínguez,domingue,emilymd
 Mitchell Schenk, schenkmi, mitchell-schenk
 Jared Beale, bealej, JaredBeale
 Parker Okonek, okonekp, okonekp
 Jakob Nelson, nelsjako, nelsjako
-Ryan Alder, alderr, ryanalder
 Sergei Poliakov, poliakos, poliakos
 Yuhang Chen(Tony),chenyuha,TJC1997,TJC1997
 Johannes Freischuetz, freischj, freischj
@@ -61,15 +48,12 @@ Claire Cahill, cahillc, clairecahill
 Nicholas Davies, davienic, nsdavies
 Zachary Horine, horinez, horinezachary
 Devin Swift,swiftde,haruvon
-Ulises Zaragoza, zaragozu, uliseszara
-Jordan Ng, ngjor, JordanNg
 Dakota Cleeves, cleevesd, cleevesd
 Aiden Nelson, nelsonai, aidenjn
 Matthew Sessions, sessionm, sessionm21
 Nathan Jewell, jewelln, Nathanjewell
 Thang Kim (LK), kimth, lkthang
 Michael Huang, huangmic, fireball1983
-Tso Yi Chung, chungts, joechung1995
 Julie Kuang,kuangqi,jk0808
 Jason Yue, yuej, yuejOSU
 Eugene Munblit, munblite, yougren
@@ -80,13 +64,10 @@ Cameron Guillory, guilloca, guilloca
 Christopher Hoskins, hoskinsc, hoskinsc
 Cheng Xie, xiech, Vacancyy
 Chasen Yamashita, yamashch, ChasenYamashita
-Joseph Landreville, landrevj, landrevj
 Huahua Wang, wanghuah, HuahuaWang2018
-Kristoffer Stuvstad, stuvstak, kkstuvstad
 Feng Liang,liangfen,Csedge
 Alexandra Leamy, leamya, AlexLeam
 Shane Clancy, clancys, ShaneClancy
-Isak Foshay, foshayi, foshay
 Peng Zhang,zhangpen,933039258
 Ben Warschauer, warschab, bwarschauer
 Gregory Sanchez, sanchegr, gs291
@@ -95,26 +76,6 @@ Steven Phillips, Phillist, Phillist
 Jarritt Youngers, youngerj, youngerj
 Mert Dedekoy, dedekoym, mertdedekoy
 Edgar Garibay Cervantes, garibaed, Garibaed
-Gauge Hartwell, hartwelg, Hartwelg
 Kaitlin Grabowski, grabowsk,  KatieGrbski
 Yuanjun Zhang, zhangyu6, FishPapa
-Daniel Safarov, safarovd, safarovd
-Evan Newman, newmanev, evanrnewman
-Alison Jones, jonesal2, AmbiguousCat
-Justin Mai, maij, justinTM
-Zach Thompson, thompzac, radiian
-John (Jack) Davis, davisjo5, osu-jackdavis
-Alexander Jacobson, jacoalex, jacoalex
-Maxwell Evdemon, Evdemonm, Evdemonm
-Harry Miller, millharr, hcmlax
-Carson Pemble, pemblec, PembleC
-Baltazar Ortiz Montejano, ortizmob, baltazarO
-Dakota Baird, bairdd, Bienfu
-Jeremiah Kramer, kramerje, kramerje
-Jiawei Mo, moji, dt990pro
-Stephanie Babb, babbst, BabbSt
-Aren Kyle, kylear, Kylear
-Aaron Goschie, goschiea, agoschie
-Michael Gabriel, gabriemi, Gabriel-Michael
-Ethan Shields, shieldse, SuperCheese21
 Yang Yang, yangy5, yang30537
