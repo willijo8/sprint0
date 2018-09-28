@@ -85,6 +85,7 @@ Kristoffer Stuvstad, stuvstak, kkstuvstad
 Feng Liang,liangfen,Csedge
 Alexandra Leamy, leamya, AlexLeam
 Shane Clancy, clancys, ShaneClancy
+Donald (Max) Harkins, harkindo, harkindo
 Isak Foshay, foshayi, foshay
 Peng Zhang,zhangpen,933039258
 Ben Warschauer, warschab, bwarschauer
