@@ -72,6 +72,7 @@ Michael Huang, huangmic, fireball1983
 Tso Yi Chung, chungts, joechung1995
 Julie Kuang,kuangqi,jk0808
 Jason Yue, yuej, yuejOSU
+Grayland Lunn, lunng, lunng
 Eugene Munblit, munblite, yougren
 Manuel Ochoa-Botello, Ochoabom, MannyB6
 Alex Grejuc, grejuca, alexgrejuc
