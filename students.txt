@@ -1,4 +1,4 @@
-Name,ONID,GitHub username
+﻿Name,ONID,GitHub username
 Xizhi Yang, yangxiz, yangxizhi
 Danila Fedorin, fedorind, DanilaFe
 Samantha Zeigler, zeiglers, zeiglers
@@ -11,11 +11,13 @@ Manideepa Saginatham,saginatm,manideepa03
 Alexandria LeClerc,leclerca,alexecutable
 Ke-Jo Hsieh,hsiehke,kyujyokei
 Griffin Thenell, thenellg, thenellg
+Haley Lebold, leboldh, leboldh
 Mingming Su, sum, mingmingsu
 Carter Olsen,olsencar,olsencar
 Joshua Carle, carlej, carlej
 Andy Trinh, trinha, andytrinh
 Jason Johnson, johnsja7, johnsja7
+Jacob Berwick,berwicja,jberwick12
 Kyle Peterson, peterkyl, peterkyl
 Alexander Smith, smithal5, smithal5
 Nikhil Anand, anandn, NikhilAnand1998
@@ -45,8 +47,8 @@ Jacob Sowanick, sowanicj, sowanicj
 Kai Gay,gayk,kai-ga
 Joshua Fisher,fisherj2,joshuasfisher
 Amanda Crawford, crawfama, Amanda-Crawford
-Megan Liles,  lilesme, lilesme 
-Sean spink, spinks, PixelDotPixel 
+Megan Liles,  lilesme, lilesme
+Sean spink, spinks, PixelDotPixel
 Emily Domínguez,domingue,emilymd
 Mitchell Schenk, schenkmi, mitchell-schenk
 Jared Beale, bealej, JaredBeale
@@ -71,6 +73,7 @@ Michael Huang, huangmic, fireball1983
 Tso Yi Chung, chungts, joechung1995
 Julie Kuang,kuangqi,jk0808
 Jason Yue, yuej, yuejOSU
+Grayland Lunn, lunng, lunng
 Eugene Munblit, munblite, yougren
 Manuel Ochoa-Botello, Ochoabom, MannyB6
 Alex Grejuc, grejuca, alexgrejuc
@@ -116,3 +119,6 @@ Aren Kyle, kylear, Kylear
 Aaron Goschie, goschiea, agoschie
 Michael Gabriel, gabriemi, Gabriel-Michael
 Haozhe Li,lihaoz,BarryLe
+Sean Cameron, camerons, seeancameron
+Jinning, Zhang, zhangji5, zhangji52
+Ethan Shields, shieldse, SuperCheese21
