@@ -7,7 +7,8 @@ Caius Brindescu,brindesc,caiusb
 Manideepa Saginatham,saginatm,manideepa03
 Alexandria LeClerc,leclerca,alexecutable
 Ke-Jo Hsieh,hsiehke,kyujyokei
-Griffin Thenell, thenellg, thenellgHaley Lebold, leboldh, leboldh
+Griffin Thenell, thenellg, thenellg
+Haley Lebold, leboldh, leboldh
 Carter Olsen,olsencar,olsencar
 Joshua Carle, carlej, carlej
 Andy Trinh, trinha, andytrinh
