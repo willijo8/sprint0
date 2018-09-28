@@ -1,4 +1,4 @@
-Name,ONID,GitHub username
+﻿Name,ONID,GitHub username
 Xizhi Yang, yangxiz, yangxizhi
 Danila Fedorin, fedorind, DanilaFe
 Samantha Zeigler, zeiglers, zeiglers
@@ -55,6 +55,7 @@ Jakob Nelson, nelsjako, nelsjako
 Ryan Alder, alderr, ryanalder
 Sergei Poliakov, poliakos, poliakos
 Yuhang Chen(Tony),chenyuha,TJC1997,TJC1997
+Fern Bostelman-Rinaldi, bostelmf, bitterplant
 Johannes Freischuetz, freischj, freischj
 Claire Cahill, cahillc, clairecahill
 Nicholas Davies, davienic, nsdavies
